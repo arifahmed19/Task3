@@ -20,7 +20,7 @@ long GetGcd(long a, long b)
 
 // 3. Define the Web Method (The "Route")
 // IMPORTANT: Replace 'how88nm0qf_bwmyga_com' with your actual formatted email
-app.MapGet("/arifahmed.bd1@gmail.com", (HttpContext context) =>
+app.MapGet("/arifahmed_bd1@gmail_com", (HttpContext context) =>
 {
     // 4. Extract 'x' and 'y' from the URL query string
     string xInput = context.Request.Query["x"];
